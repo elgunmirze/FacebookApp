@@ -1,0 +1,5 @@
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppModels\bin\Debug\FacebookApp.Models.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppModels\bin\Debug\FacebookApp.Models.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppModels\obj\Debug\FacebookApp.Models.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppModels\obj\Debug\FacebookApp.Models.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppModels\obj\Debug\FacebookApp.Models.csprojResolveAssemblyReference.cache

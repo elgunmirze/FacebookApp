@@ -1,0 +1,4 @@
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppTests\bin\Debug\FacebookApp.Tests.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppTests\bin\Debug\FacebookApp.Tests.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppTests\obj\Debug\FacebookApp.Tests.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppTests\obj\Debug\FacebookApp.Tests.pdb

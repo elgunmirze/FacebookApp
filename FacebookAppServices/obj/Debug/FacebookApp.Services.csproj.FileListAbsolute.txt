@@ -1,0 +1,15 @@
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\FacebookApp.Services.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\FacebookApp.Services.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\Facebook.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\FacebookApp.Interfaces.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\FacebookApp.Models.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\FacebookApp.Interfaces.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\FacebookApp.Models.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\Facebook.xml
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\obj\Debug\FacebookApp.Services.csprojResolveAssemblyReference.cache
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\obj\Debug\FacebookApp.Services.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\obj\Debug\FacebookApp.Services.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\CuttingEdge.Conditions.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppServices\bin\Debug\CuttingEdge.Conditions.xml

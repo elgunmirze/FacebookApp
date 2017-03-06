@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "LoginPage";
+}
+
+@using (Html.BeginForm())
+{
+    <br/>
+    <br/>
+    <table>
+        <tr>
+            <td>
+                <label>Name</label>
+            </td>
+            <td>
+                <input type="text" width="150"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Surname</label>
+            </td>
+            <td>
+                <input type="text" width="150"/>
+            </td>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("Login with using facebook account", "FacebookLogIn", "FacebookAuth")</td>
+        </tr>
+    </table>
+    <div id="fb-root"></div>
+}
+<h2>LoginPage</h2>

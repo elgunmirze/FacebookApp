@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookApp.WebSite", "FacebookLoginApp\FacebookApp.WebSite.csproj", "{3B76970D-4AB0-4F32-850A-987D40D0B4C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookApp.Models", "FacebookAppModels\FacebookApp.Models.csproj", "{1AFE3BC9-9C9F-46F5-A5CD-CDF46D6449A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookApp.Services", "FacebookAppServices\FacebookApp.Services.csproj", "{DC4B260D-81D0-44D2-B465-A42F59A7F7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookApp.Interfaces", "FacebookAppInterfaces\FacebookApp.Interfaces.csproj", "{44056BEB-A22A-4DA9-91B6-E0A14C2111D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookApp.Tests", "FacebookApp.Tests\FacebookApp.Tests.csproj", "{A205B8BB-44EA-48F0-8C17-C62157949CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookApp.Common", "FacebookApp.Common\FacebookApp.Common.csproj", "{F1DC1901-D6B9-47DF-ACA5-7101D6F0327C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B76970D-4AB0-4F32-850A-987D40D0B4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B76970D-4AB0-4F32-850A-987D40D0B4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B76970D-4AB0-4F32-850A-987D40D0B4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B76970D-4AB0-4F32-850A-987D40D0B4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFE3BC9-9C9F-46F5-A5CD-CDF46D6449A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFE3BC9-9C9F-46F5-A5CD-CDF46D6449A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFE3BC9-9C9F-46F5-A5CD-CDF46D6449A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFE3BC9-9C9F-46F5-A5CD-CDF46D6449A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4B260D-81D0-44D2-B465-A42F59A7F7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4B260D-81D0-44D2-B465-A42F59A7F7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4B260D-81D0-44D2-B465-A42F59A7F7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4B260D-81D0-44D2-B465-A42F59A7F7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44056BEB-A22A-4DA9-91B6-E0A14C2111D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44056BEB-A22A-4DA9-91B6-E0A14C2111D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44056BEB-A22A-4DA9-91B6-E0A14C2111D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44056BEB-A22A-4DA9-91B6-E0A14C2111D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A205B8BB-44EA-48F0-8C17-C62157949CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A205B8BB-44EA-48F0-8C17-C62157949CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A205B8BB-44EA-48F0-8C17-C62157949CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A205B8BB-44EA-48F0-8C17-C62157949CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DC1901-D6B9-47DF-ACA5-7101D6F0327C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DC1901-D6B9-47DF-ACA5-7101D6F0327C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DC1901-D6B9-47DF-ACA5-7101D6F0327C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DC1901-D6B9-47DF-ACA5-7101D6F0327C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

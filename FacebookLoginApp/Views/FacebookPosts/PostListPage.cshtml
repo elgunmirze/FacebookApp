@@ -1,0 +1,41 @@
+﻿@model IEnumerable<FacebookApp.Models.Models.FacebookPost>
+
+@{
+    ViewBag.Title = "PostListPage";
+}
+
+<h2>PostListPage</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Story)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LikesCount)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Story)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LikesCount)
+            </td>
+            <td>
+                @Html.ActionLink("Expand", "Expand", new {id = item.Id})
+            </td>
+        </tr>
+    }
+</table>
+<div style="font-weight: bolder">Total count:@Model.Sum(p => Convert.ToInt32(p.LikesCount))</div>

@@ -1,0 +1,7 @@
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookApp.Test\bin\Debug\FacebookApp.Test.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookApp.Test\bin\Debug\FacebookApp.Test.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookApp.Test\bin\Debug\nunit.framework.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookApp.Test\bin\Debug\nunit.framework.xml
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookApp.Test\obj\Debug\FacebookApp.Test.csprojResolveAssemblyReference.cache
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookApp.Test\obj\Debug\FacebookApp.Test.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookApp.Test\obj\Debug\FacebookApp.Test.pdb

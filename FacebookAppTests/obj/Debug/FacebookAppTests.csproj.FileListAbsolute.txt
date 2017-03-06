@@ -1,0 +1,5 @@
+c:\users\mirza.elgun\documents\visual studio 2015\Projects\FacebookLoginApp\FacebookAppTests\bin\Debug\FacebookAppTests.dll
+c:\users\mirza.elgun\documents\visual studio 2015\Projects\FacebookLoginApp\FacebookAppTests\bin\Debug\FacebookAppTests.pdb
+c:\users\mirza.elgun\documents\visual studio 2015\Projects\FacebookLoginApp\FacebookAppTests\obj\Debug\FacebookAppTests.csprojResolveAssemblyReference.cache
+c:\users\mirza.elgun\documents\visual studio 2015\Projects\FacebookLoginApp\FacebookAppTests\obj\Debug\FacebookAppTests.dll
+c:\users\mirza.elgun\documents\visual studio 2015\Projects\FacebookLoginApp\FacebookAppTests\obj\Debug\FacebookAppTests.pdb

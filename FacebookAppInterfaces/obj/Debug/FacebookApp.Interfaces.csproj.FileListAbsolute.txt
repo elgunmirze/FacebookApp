@@ -1,0 +1,9 @@
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppInterfaces\bin\Debug\FacebookApp.Interfaces.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppInterfaces\bin\Debug\FacebookApp.Interfaces.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppInterfaces\bin\Debug\Facebook.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppInterfaces\bin\Debug\FacebookApp.Models.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppInterfaces\bin\Debug\FacebookApp.Models.pdb
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppInterfaces\bin\Debug\Facebook.xml
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppInterfaces\obj\Debug\FacebookApp.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppInterfaces\obj\Debug\FacebookApp.Interfaces.dll
+C:\Users\mirza.elgun\Documents\Visual Studio 2015\Projects\FacebookLoginApp\FacebookAppInterfaces\obj\Debug\FacebookApp.Interfaces.pdb
