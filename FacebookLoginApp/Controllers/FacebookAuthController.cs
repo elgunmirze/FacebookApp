@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Web.Mvc;
 using System.Web.Security;
-using FacebookApp.Common;
 using FacebookApp.Common.Constants;
 using FacebookApp.Common.Urls;
 using FacebookApp.Interfaces.Adapters;
@@ -9,9 +8,12 @@ using FacebookApp.Interfaces.Facades;
 using FacebookApp.Models.Models;
 using FacebookApp.Services.Services;
 using Newtonsoft.Json;
+using System.Diagnostics.CodeAnalysis;
+using FacebookApp.Common.Exception;
 
 namespace FacebookApp.WebSite.Controllers
 {
+    [ExcludeFromCodeCoverage]
     public class FacebookAuthController : Controller
     {
         private readonly ICommonFacade _comfacade;

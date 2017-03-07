@@ -1,5 +1,8 @@
-﻿namespace FacebookApp.Models.Models
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace FacebookApp.Models.Models
 {
+    [ExcludeFromCodeCoverage]
     public class FacebookLikesData
     {
         public string id { get; set; }

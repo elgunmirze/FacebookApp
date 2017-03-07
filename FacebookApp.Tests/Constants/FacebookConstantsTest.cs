@@ -1,5 +1,8 @@
-﻿namespace FacebookApp.Tests.Constants
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace FacebookApp.Tests.Constants
 {
+    [ExcludeFromCodeCoverage]
     public class FacebookConstantsTest
     {
         public const string AccessToken = "123456";

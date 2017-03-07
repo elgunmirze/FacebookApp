@@ -7,9 +7,11 @@ using FacebookApp.Interfaces.Adapters;
 using FacebookApp.Interfaces.Facades;
 using FacebookApp.Models.Models;
 using FacebookApp.Services.Services;
+using System.Diagnostics.CodeAnalysis;
 
 namespace FacebookApp.WebSite.Controllers
 {
+    [ExcludeFromCodeCoverage]
     public class FacebookPostsController : Controller
     {
         private readonly ICommonFacade _comfacade;

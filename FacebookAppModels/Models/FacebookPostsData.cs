@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 
 namespace FacebookApp.Models.Models
 {
+    [ExcludeFromCodeCoverage]
     public class FacebookPostsData
     {
         public string id { get; set; }

@@ -1,5 +1,8 @@
-﻿namespace FacebookApp.Common.Constants
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace FacebookApp.Common.Constants
 {
+    [ExcludeFromCodeCoverage]
     public class FacebookConstants
     {
         public const string MyInfo = "me";

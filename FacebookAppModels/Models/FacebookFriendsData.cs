@@ -1,5 +1,8 @@
-﻿namespace FacebookApp.Models.Models
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace FacebookApp.Models.Models
 {
+    [ExcludeFromCodeCoverage]
     public class FacebookFriendsData
     {
         public string id { get; set; }

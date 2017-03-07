@@ -1,7 +1,9 @@
-﻿using FacebookApp.Common.Constants;
+﻿using System.Diagnostics.CodeAnalysis;
+using FacebookApp.Common.Constants;
 
 namespace FacebookApp.Common.Urls
 {
+    [ExcludeFromCodeCoverage]
     public class FacebookRequestUrls
     {
         public static string FacebookInfoUrl = string.Format(FacebookConstants.MyInfo + "?fields=" +

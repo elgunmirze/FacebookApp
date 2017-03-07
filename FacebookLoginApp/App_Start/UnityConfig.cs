@@ -8,9 +8,11 @@ using FacebookApp.Services.Adapters;
 using FacebookApp.Interfaces.Adapters;
 using FacebookApp.Interfaces.Facades;
 using FacebookApp.Services.Facades;
+using System.Diagnostics.CodeAnalysis;
 
 namespace FacebookLoginApp
 {
+    [ExcludeFromCodeCoverage]
     public static class UnityConfig
     {
         public static void RegisterComponents()

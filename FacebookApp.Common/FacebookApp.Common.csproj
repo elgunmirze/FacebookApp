@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants\FacebookConstants.cs" />
-    <Compile Include="FacebookArgumentNullException.cs" />
+    <Compile Include="Exception\FacebookArgumentNullException.cs" />
     <Compile Include="Urls\FacebookRequestUrls.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
